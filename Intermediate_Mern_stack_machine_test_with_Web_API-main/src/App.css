@@ -1,0 +1,10 @@
+.App {
+  /* text-align: center; */
+}
+
+.inputTag{
+  width: 100%;
+  border: 1px solid #bfdbfe;
+  padding: 0.5rem;
+  border-radius: 0.375rem;
+}
